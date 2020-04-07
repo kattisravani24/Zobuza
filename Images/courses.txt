@@ -1,0 +1,20 @@
+       <div class="row">
+
+			              
+
+				            <div class="col-sm-6">
+				                <img src="Images/courses.png" style="height:350px; margin-left:-15px;" />
+				            </div>
+
+			                <div class="col-sm-6">  
+
+				                <h3 style="color:orange">zobuza courses</h3>
+				                <p style="font-size:20px; color:#26A69A;;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit adipiscing blandit. Aliquam placerat, velit a fermentum fermentum, mi felis vehicula justo, a dapibus quaeam augue non massa.ut aliquip ex ea commodo consequat.Ut enim ad minim veniam, quis nostrud exercitation ullamco la   </p>
+				                <h3 style="color:orange">Gradezo courses</h3>
+				                <p style="font-size:20px; color:#26A69A;;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit adipiscing blandit. Aliquam placerat, velit a fermentum fermentum,commodo consequat.Ut enim ad minim veniam, quis nostrud exercitation ullamco la   </p>
+			                </div>
+                          </div>
+
+                        </div>
+                    </div>
+			    </div>
